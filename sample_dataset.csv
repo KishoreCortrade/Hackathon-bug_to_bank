@@ -1,0 +1,99 @@
+fund_name,fund_type,open_exceptions,overdue_tasks,client_escalations,resource_utilization,sla_breaches
+Apex PE Fund III,Private Equity,45,38,9,97.3,13
+Zenith PD Fund II,Private Debt,42,35,8,95.1,12
+Meridian RE Fund I,Real Estate,40,32,9,98.2,11
+Pinnacle INF Fund IV,Infrastructure,48,39,10,96.7,14
+Summit HF Fund II,Hedge Fund,44,36,8,94.8,12
+Vertex PE Fund I,Private Equity,38,30,7,93.5,10
+Nexus PD Fund III,Private Debt,41,33,9,97.1,13
+Horizon RE Fund II,Real Estate,35,28,6,91.2,9
+Catalyst INF Fund I,Infrastructure,47,37,9,96.3,13
+Vantage HF Fund III,Hedge Fund,43,34,8,95.6,11
+Bridgepoint PE Fund II,Private Equity,32,26,7,90.4,8
+Carlyle PD Fund I,Private Debt,36,29,8,92.7,10
+Hamilton RE Fund III,Real Estate,39,31,9,94.1,12
+Sterling INF Fund II,Infrastructure,44,36,9,96.8,13
+Atlas HF Fund I,Hedge Fund,41,33,7,93.2,11
+Titan PE Fund IV,Private Equity,46,38,10,97.9,14
+Orion PD Fund II,Private Debt,33,27,6,89.6,9
+Phoenix RE Fund I,Real Estate,37,30,8,93.4,10
+Pegasus INF Fund III,Infrastructure,42,34,9,95.7,12
+Ares HF Fund II,Hedge Fund,40,32,7,92.1,11
+Apollo PE Fund I,Private Equity,25,21,5,85.3,7
+Athena PD Fund III,Private Debt,28,23,6,87.9,7
+Minerva RE Fund II,Real Estate,22,18,4,83.6,5
+Epsilon INF Fund I,Infrastructure,30,25,6,88.4,8
+Sigma HF Fund IV,Hedge Fund,27,22,5,86.2,6
+Delta PE Fund II,Private Equity,19,16,4,81.7,5
+Omega PD Fund I,Private Debt,24,20,5,85.1,6
+Alpha RE Fund III,Real Estate,26,21,5,84.8,6
+Beta INF Fund II,Infrastructure,21,17,4,82.3,5
+Gamma HF Fund I,Hedge Fund,29,24,6,87.6,7
+Tau PE Fund III,Private Equity,17,14,3,79.5,4
+Zeta PD Fund II,Private Debt,23,19,5,84.3,6
+Northern RE Fund I,Real Estate,20,16,4,81.1,5
+Southern INF Fund III,Infrastructure,28,23,5,86.7,7
+Eastern HF Fund II,Hedge Fund,16,13,3,78.2,4
+Western PE Fund I,Private Equity,25,20,5,85.9,6
+Global PD Fund IV,Private Debt,22,18,4,83.2,5
+European RE Fund II,Real Estate,30,24,6,88.1,7
+Pacific INF Fund I,Infrastructure,18,15,3,80.4,4
+Atlantic HF Fund III,Hedge Fund,26,21,5,85.6,6
+Sovereign PE Fund II,Private Equity,14,11,2,74.3,3
+Prestige PD Fund I,Private Debt,12,9,2,71.8,2
+Heritage RE Fund III,Real Estate,16,13,3,75.6,3
+Legacy INF Fund II,Infrastructure,10,8,2,69.4,2
+Prime HF Fund I,Hedge Fund,13,10,2,73.1,3
+Premier PE Fund IV,Private Equity,8,6,1,67.2,1
+Elite PD Fund II,Private Debt,11,9,2,70.5,2
+Monarch RE Fund I,Real Estate,9,7,1,65.8,1
+Cobalt INF Fund III,Infrastructure,15,12,2,74.9,3
+Argent HF Fund II,Hedge Fund,7,5,1,63.4,1
+Aurum PE Fund I,Private Equity,5,4,0,61.2,1
+Platinum PD Fund III,Private Debt,6,5,1,64.7,1
+Sapphire RE Fund II,Real Estate,4,3,0,59.8,0
+Emerald INF Fund I,Infrastructure,8,6,1,66.3,1
+Diamond HF Fund IV,Hedge Fund,3,2,0,58.1,0
+Crystal PE Fund II,Private Equity,2,2,0,60.4,0
+Cascade PE Fund II,Private Equity,6,5,1,62.3,1
+Forte PD Fund I,Private Debt,9,7,1,67.8,1
+Luminary RE Fund III,Real Estate,7,6,1,65.1,1
+Pacific INF Fund II,Infrastructure,4,3,0,60.7,0
+Atlantic HF Fund I,Hedge Fund,11,9,2,70.2,2
+Apex PD Fund I,Private Debt,3,2,0,57.6,0
+Zenith RE Fund II,Real Estate,5,4,1,62.9,1
+Meridian INF Fund III,Infrastructure,2,1,0,55.3,0
+Pinnacle HF Fund I,Hedge Fund,7,5,1,64.4,1
+Summit PE Fund I,Private Equity,4,3,0,59.1,0
+Vertex RE Fund II,Real Estate,6,5,1,63.7,1
+Nexus INF Fund I,Infrastructure,3,2,0,57.8,0
+Horizon HF Fund II,Hedge Fund,8,6,1,66.5,1
+Catalyst PE Fund III,Private Equity,10,8,2,69.3,2
+Vantage PD Fund II,Private Debt,5,4,1,62.1,1
+Bridgepoint RE Fund I,Real Estate,4,3,0,59.6,0
+Carlyle INF Fund II,Infrastructure,7,6,1,65.2,1
+Hamilton HF Fund III,Hedge Fund,3,2,0,56.8,0
+Sterling PE Fund I,Private Equity,9,7,1,67.4,1
+Atlas PD Fund III,Private Debt,6,5,1,63.9,1
+Titan RE Fund II,Real Estate,2,1,0,54.7,0
+Orion INF Fund III,Infrastructure,5,4,0,61.5,0
+Phoenix HF Fund I,Hedge Fund,8,6,1,66.8,1
+Pegasus PE Fund II,Private Equity,11,9,2,70.9,2
+Ares PD Fund I,Private Debt,4,3,0,59.3,0
+Apollo RE Fund III,Real Estate,6,5,1,64.1,1
+Athena INF Fund II,Infrastructure,3,2,0,57.2,0
+Minerva HF Fund II,Hedge Fund,9,7,1,68.7,1
+Epsilon PE Fund III,Private Equity,7,6,1,65.8,1
+Sigma PD Fund II,Private Debt,5,4,0,61.3,0
+Delta RE Fund I,Real Estate,4,3,0,58.9,0
+Omega INF Fund IV,Infrastructure,8,6,1,66.1,1
+Alpha HF Fund III,Hedge Fund,6,5,1,63.5,1
+Beta PE Fund I,Private Equity,3,2,0,56.4,0
+Gamma PD Fund III,Private Debt,7,6,1,65.3,1
+Tau RE Fund II,Real Estate,5,4,1,62.7,1
+Zeta INF Fund II,Infrastructure,4,3,0,59.8,0
+Cobalt PE Fund III,Private Equity,2,1,0,54.2,0
+Argent PD Fund II,Private Debt,6,5,1,63.1,1
+Aurum RE Fund I,Real Estate,8,7,1,67.6,1
+Platinum INF Fund I,Infrastructure,3,2,0,56.9,0
+Sapphire HF Fund II,Hedge Fund,5,4,0,61.8,0
